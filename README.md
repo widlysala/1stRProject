@@ -2,7 +2,7 @@
 
 This repository contains an RMarkdown report with a histogram.
 
-**Live report:** [View Histogram Online](https://widlysala.github.io/1stRProject/)
+** Live Report
+[![Live Report](https://img.shields.io/badge/Live-Report-blue)](https://widlysala.github.io/1stRProject/)
 
-![Histogram Preview](histogram.png)
 
