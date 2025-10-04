@@ -1,8 +1,7 @@
-# My R Project
+# My 1st R Project
 
-This repository contains an RMarkdown report with a histogram.
+This repository showcases an R histogram
 
-** Live Report
 [![Live Report](https://img.shields.io/badge/Live-Report-blue)](https://widlysala.github.io/1stRProject/)
 
 
