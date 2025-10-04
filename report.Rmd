@@ -3,7 +3,7 @@ title: "My R Report"
 output: html_document
 ---
 
-# Histogram Example
+## Histogram Example
 
 ```{r}
 x <- rnorm(100)
